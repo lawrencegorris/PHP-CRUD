@@ -1,5 +1,5 @@
 # PHP-CRUD EXERCISE
-## GOAL OF THE EXERCISE: a
+## GOAL OF THE EXERCISE: 
 Creating a CRUD system to store student, teacher and class information in a database while using the MVC structure.
 
 ### MUST HAVE FEATURES
