@@ -14,15 +14,15 @@ Creating a CRUD system to store student, teacher and class information in a data
 - 'A page to create a new entity'
 
 ### PLAN
-[x] Setup project, init as Git repo, add to exercise sheet
-[ ] Research CRUD in PHP
-[ ] Create database with info (random)
-[ ] Create connection to database
-[ ] Create models/controllers
-[ ] Able to display all content in tables on their pages
-[ ] Create the create, edit, delete buttons and add their functions
-[ ] Edge cases
-[ ] Testing
+- [x] Setup project, init as Git repo, add to exercise sheet
+- [ ] Research CRUD in PHP
+- [ ] Create database with info (random)
+- [ ] Create connection to database
+- [ ] Create models/controllers
+- [ ] Able to display all content in tables on their pages
+- [ ] Create the create, edit, delete buttons and add their functions
+- [ ] Edge cases
+- [ ] Testing
 
 ### TO DO 21/06/2021
 - Setup project
