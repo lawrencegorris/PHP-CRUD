@@ -17,7 +17,7 @@ Creating a CRUD system to store student, teacher and class information in a data
 - [x] Setup project, init as Git repo, add to exercise sheet
 - [ ] Research CRUD in PHP
 - [ ] Create database with info (random)
-- [ ] Create connection to database
+- [x] Create connection to database
 - [ ] Create models/controllers
 - [ ] Able to display all content in tables on their pages
 - [ ] Create the create, edit, delete buttons and add their functions
@@ -29,6 +29,11 @@ Creating a CRUD system to store student, teacher and class information in a data
 - Research CRUD
 - Setup database of randomly created school
 - Create a connection to the database
+
+### TO DO 22/06/2021
+- Finish MVC model
+- Able to put content from form to database
+- Show database content on screen
 
 ### Doubts, worries, questions:
 - Afraid to ask questions when in help...due to anxiety hehe. Need to work on that
